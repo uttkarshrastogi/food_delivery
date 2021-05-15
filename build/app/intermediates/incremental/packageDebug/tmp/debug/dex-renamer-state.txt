@@ -1,0 +1,4 @@
+#Sat May 15 13:52:05 IST 2021
+base.0=/Users/uttkarshrastogi/Desktop/udemy courses/[FreeCourseSite.com] Udemy - The Complete Flutter UI Masterclass  iOS & Android in Dart/02 Food Delivery App/flutter_food_delivery_ui/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

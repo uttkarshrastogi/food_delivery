@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/uttkarshrastogi/Desktop/udemy courses/[FreeCourseSite.com] Udemy - The Complete Flutter UI Masterclass  iOS & Android in Dart/02 Food Delivery App/flutter_food_delivery_ui/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/uttkarshrastogi/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3232bcfddf0b8c5496c374d52b0b4772/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
